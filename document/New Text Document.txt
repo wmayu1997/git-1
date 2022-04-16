@@ -1,0 +1,110 @@
+https://in.indeed.com/jobs?q=Work%20From%20Home%20Web%20Design&l=Pune%2C%20Maharashtra&vjk=aa9103a5f12b969d
+
+
+[wpforms id="1908"]
+
+
+1.@media (min-width:300) and (max-width:500) {}
+
+2.@media (min-width:500) and (max-width:740) {}
+
+3.@media only screen and (min-device-width : 1280px) and (max-device-width : 1366px){}
+
+4.@media only screen and (min-device-width : 1366px) and (max-device-width : 1440px) {}
+
+
+5.@media only screen and (min-device-width : 1440px) and (max-device-width : 1600px) {}
+
+6.@media only screen and (min-device-width : 1600px) and (max-device-width : 1920px){}
+
+7.@media only screen and (min-device-width : 1920px) and (max-device-width : 2560px) {}
+
+8.@media  only screen and (min-device-width : 2560px)and(max-device-width : 3000px) {}
+
+9.@media only screen and (min-device-width : 300px) and (max-device-width : 740px){ }
+
+.top_panel_inner_style_2 .contact_phone_in_top {
+    
+    display: none;
+}
+.top_panel_middle
+.columns_wrap .columns_fluid{
+	  width: 48%;
+margin-left: 36%;
+}
+.top_panel_inner_style_2 .menu_user_cart {
+
+	display: none; 
+	
+}
+
+Dimensions: 1176 by 590 pixels 
+
+
+
+ 
+
+.top_panel_inner_style_2 .logo {
+    padding:0;
+}
+
+
+
+.column-1_2, .column-2_4, .column-3_6, .column-4_8, .column-5_10, .column-6_12 {
+    width: 60%;
+    margin-left: 23%;
+}
+
+
+.top_panel_inner_style_2 .menu_main_nav{
+	padding:0;
+}
+
+.logo img {
+    max-width: 30%;
+    height: 24%;
+    vertical-align: top;
+}
+
+
+
+Wordpress:
+
+
+3000px 2500px  1600px 1440px  1366px 1280px 1024px 768px 500px 480px  490px 475px 460px 360px 320px  
+
+
+
+
+
+
+
+@media only screen and (min-device-width :768px) and (max-device-width : 1024px){
+
+.image {
+    display: inline !important;
+    width: 70% !important;
+    margin: 2em;
+}
+	.footer_wrap_inner aside.widget:nth-child(n+3) {
+    margin-top: 0px !important;
+}
+.columns_wrap > [class*="column-"] {
+    min-width: 28%;
+}
+	ul.trx_addons_list.icons {
+    padding-left: 0%;
+}
+	.columns_wrap {
+    margin-right: 0px;
+    display: inline-flex;
+}
+	.scheme_dark .copyright_wrap_inner {
+    color: #ffffff;
+   
+}
+	.wpb_text_column :last-child, #content .wpb_text_column p:last-child, .wpb_alert p:last-child, .wpb_text_column :last-child, .wpb_text_column p:last-child {
+    margin-bottom: 11px;
+    margin-right: 0% !important;
+}
+}

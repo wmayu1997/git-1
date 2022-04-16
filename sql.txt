@@ -1,1 +1,0 @@
-Create table hospital(hid int,hname varchar(20),haddress varchar(20));
